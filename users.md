@@ -127,6 +127,8 @@ email id- e23cseu0206@bennett.edu.in
 
 - Contributed ideas to improve user experience and workflow  
 
+- Set up and managed the team GitHub repository  
+
 - Assisted in organizing and structuring project documentation  
 
 - Coordinated with team members to ensure smooth progress  

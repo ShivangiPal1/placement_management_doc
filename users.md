@@ -136,3 +136,92 @@ email id- e23cseu0206@bennett.edu.in
 ## Summary  
 
 My primary contribution was conducting stakeholder analysis to ensure the platform is built around real user needs. I defined how Students, Recruiters/Companies, and Placement Cell/Admin interact with the system and helped align the platform design with practical placement challenges.
+
+---
+## Name: Shivansh Rana
+email id- srana_be23@thapar.edu  
+**Role:** Wireframe Designer  
+
+---
+
+## Contributions  
+
+### Technical Contributions  
+
+- Designed wireframes for the AI-Powered Placement Management Platform  
+
+- Created wireframes for:
+  - Login & Role Selection  
+  - Student Dashboard  
+  - Student Profile & Resume Upload  
+  - Job Listings  
+  - Application Tracking  
+  - Recruiter Portal  
+  - Admin Dashboard  
+
+- Defined screen layouts, navigation flow, and user interactions for key features  
+
+- Ensured consistent and user-friendly interface across all user roles  
+
+---
+
+### Non-Technical Contributions  
+
+- Mapped user journeys for Students, Recruiters, and Placement Cell/Admin  
+
+- Participated in discussions on workflow and user experience  
+
+- Reviewed requirements and aligned wireframes with user stories and platform goals  
+
+- Assisted in organizing and reviewing project documentation  
+
+---
+
+## Summary  
+
+My primary contribution was designing the wireframes for the platform, creating visual layouts of key screens and user flows to ensure an intuitive and structured experience for Students, Recruiters, and Placement Cell/Admin users.
+
+---
+## Name: Khushpreet
+email id- kkaur2_be23@thapar.edu
+**Role:** Feature Prioritization Lead
+
+---
+
+## Contributions
+
+### Technical Contributions
+
+- Applied the MoSCoW prioritization framework to classify 21 features across all three user roles:
+  - Must Have
+  - Should Have
+  - Could Have
+  - Won't Have
+
+- Built the Impact vs. Effort matrix mapping features into:
+  - Quick Wins
+  - Major Projects
+  - Fill-ins
+  - Defer
+
+- Defined justification for each priority tier based on user impact and implementation complexity
+
+- Ensured feature list was consistent with the PRD and User Stories
+
+---
+
+### Non-Technical Contributions
+
+- Identified and documented all platform users (Students, Recruiters, Admin) and their key actions
+
+- Coordinated with teammates to align features with user stories and stakeholder needs
+
+- Presented prioritization decisions and reasoning to the group
+
+- Contributed to overall documentation and planning
+
+---
+
+## Summary
+
+My primary contribution was Feature Prioritization — classifying platform features using the MoSCoW method and Impact vs. Effort matrix to ensure the development team focuses on the right features first, delivering maximum value while keeping scope controlled and feasible.
